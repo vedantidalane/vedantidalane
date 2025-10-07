@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on ...<h1 align="center">Hi 👋, I'm Vedanti Dalane</h1>
+Hi 👋, I'm Vedanti Dalane</h1>
 <h3 align="center">Aspiring MERN Stack Developer | Passionate about building creative web solutions</h3>
 
 <p align="center">
