@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Hi 👋, I'm Vedanti Dalane</h1>
+Hi 👋, I'm Vedanti Dalane
 <h3 align="center">Aspiring MERN Stack Developer | Passionate about building creative web solutions</h3>
 
 <p align="center">
